@@ -1,0 +1,93 @@
+commit 2993d03b64a669dc58bc49338dea44b777ae574e
+Merge: 0b11533 8f12ca1
+Author: Eanna Johnston <e.johnston8@buigalway.ie>
+Date:   Thu Nov 3 20:38:59 2022 +0000
+
+    Merge branch 'Eanna_Johnston_Blackboard' of https://github.com/EannaJ/sciprog_22 into Eanna_Johnston_Blackboard
+
+commit 0b1153364163c7e67ecee01ebe1022455a372255
+Author: Eanna Johnston <e.johnston8@buigalway.ie>
+Date:   Thu Nov 3 20:38:52 2022 +0000
+
+    Code for practical 7 - EJ
+
+commit d606d5c79299d017c3dca4c4fef8b3bc5bd2a6e5
+Author: Eanna Johnston <e.johnston8@buigalway.ie>
+Date:   Thu Nov 3 20:37:28 2022 +0000
+
+    Code and readme for practical 7 - EJ
+
+commit 8f12ca135d3c7717188644af0bb1a28deced25e7
+Author: EannaJ <116276689+EannaJ@users.noreply.github.com>
+Date:   Wed Nov 2 17:09:29 2022 +0000
+
+    Create README6
+
+commit 033e84f144df358952b791375cfe0524a954b5e7
+Author: Eanna Johnston <e.johnston8@buigalway.ie>
+Date:   Wed Nov 2 17:05:02 2022 +0000
+
+    This contains the matrix multiplication code for practical 6
+
+commit 612a99076615bcf5140cac35264bc639622f1597
+Author: Eanna Johnston <e.johnston8@buigalway.ie>
+Date:   Sun Oct 23 17:16:26 2022 +0100
+
+    Codes for practical 5 - EJ
+
+commit 39a4774ef2402415e0f824e431604a1985656b0b
+Author: Eanna Johnston <e.johnston8@buigalway.ie>
+Date:   Sun Oct 23 17:15:44 2022 +0100
+
+    Code for practical 4 - EJ
+
+commit 93f4d055722f12aae7cdc996818b9f86fb28486c
+Author: Eanna Johnston <e.johnston8@buigalway.ie>
+Date:   Sun Oct 23 17:13:07 2022 +0100
+
+    Code for Practical 3 - EJ
+
+commit a6344858a55b10e51a7de8c87245efe8eac31d38
+Author: Eanna Johnston <e.johnston8@buigalway.ie>
+Date:   Thu Oct 20 15:07:29 2022 +0100
+
+    ReadMe for practical 2 - EJ
+
+commit ec81d2207bc1ce8065a3de027b09dc164534b2e6
+Author: Eanna Johnston <e.johnston8@buigalway.ie>
+Date:   Thu Oct 20 14:52:54 2022 +0100
+
+    Codes for Practical 2
+
+commit dc2584c935ed4720ef7c8786482c4ddd63f88504
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:14:00 2022 +0100
+
+    Update README.md
+
+commit e811d2284ca3ffb2924bab959a842bb3806b35e0
+Merge: 6a5ffb7 d2c301d
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:13:37 2022 +0100
+
+    Merge pull request #1 from buketbenek/Buket_BenekGursoy
+    
+    Update README file
+
+commit d2c301dad05f0c7ff203d4b28e1d8be3ade3c99c
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:11:21 2022 +0100
+
+    Update README file
+
+commit 6a5ffb76f12846d1b0c8cc5d62cf0716a4fda823
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:18:16 2022 +0100
+
+    Update README.md
+
+commit db2e6a8406e8f069576574b3bcdbe338a5827664
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:17:45 2022 +0100
+
+    Initial commit
